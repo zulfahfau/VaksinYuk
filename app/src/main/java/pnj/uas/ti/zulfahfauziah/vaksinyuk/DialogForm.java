@@ -120,4 +120,7 @@ public class DialogForm extends DialogFragment {
         txt.setError("tidak boleh kosong");
         txt.requestFocus();
     }
+        private void input datauser(EditText txt, String s){
+        txt.setError("tidak boleh kosong");
+        txt.requestFocus();
 }
