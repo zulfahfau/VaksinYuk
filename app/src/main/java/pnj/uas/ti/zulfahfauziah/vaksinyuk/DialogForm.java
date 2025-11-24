@@ -123,7 +123,7 @@ public class DialogForm extends DialogFragment {
         private void input datauser(EditText txt, String s){
         txt.setError("tidak boleh kosong");
         txt.requestFocus();
-}
+    }
 
 }
     private void input transaksi usser(EditText txt, String s){
